@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features name="MyFeaturesRepo">
+  <feature name="example-camel-bundle">
+    <bundle>file:usr/camel-blueprint-5.1.2.jar</bundle>
+  </feature>
+</features>
